@@ -1,0 +1,5 @@
+python-dotenv>=1.0.1
+requests>=2.31.0
+cryptography>=42.0      # RSA-PSS signing for Kalshi API auth
+certifi>=2024.2
+pytest>=8.0
